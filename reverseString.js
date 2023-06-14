@@ -4,5 +4,5 @@ const reverseString = (string) => {
     let reverStr = str.join('');
     return reverStr;
 }
-console.log(reverseString('hi'));
+
 module.exports = reverseString;

@@ -1,0 +1,15 @@
+{
+    "name": "unittestex",
+    "version": "1.0.0",
+    "description": "I used this repo for exercise purpose",
+    "main": "script.js",
+    "scripts": {
+
+        "test": "jest"
+    },
+    "author": "Amir Hussain",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.5.0"
+    }
+}
